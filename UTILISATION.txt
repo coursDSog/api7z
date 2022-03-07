@@ -1,0 +1,2 @@
+l'adresse de l'api http://37.59.232.251:5000/
+pour avoir une prédiction /predict?id_client=100005 ajouter à http://37.59.232.251:5000
